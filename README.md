@@ -10,7 +10,7 @@
 - [PHY114](https://github.com/ishmamzarif/1-1/tree/main/PHY114)
 - [PHY129](https://github.com/ishmamzarif/1-1/tree/main/PHY129)
 
----
+
 
 ## [1-2](https://github.com/ishmamzarif/1-2)
 - [CSE105](https://github.com/ishmamzarif/1-2/tree/main/CSE105)
@@ -23,7 +23,7 @@
 - [CHEM118](https://github.com/ishmamzarif/1-2/tree/main/CHEM118)
 - [CHEM129](https://github.com/ishmamzarif/1-2/tree/main/CHEM129)
 
----
+
 
 ## [2-1](https://github.com/ishmamzarif/2-1)
 - [CSE205](https://github.com/ishmamzarif/2-1/tree/main/CSE205)
@@ -36,22 +36,22 @@
 - [EEE264](https://github.com/ishmamzarif/2-1/tree/main/EEE264)
 - [MAT243](https://github.com/ishmamzarif/2-1/tree/main/MAT243)
 
----
+
 
 ## [2-2](https://github.com/ishmamzarif/2-2)
 
----
+
 
 ## [3-1](https://github.com/ishmamzarif/3-1)
 
----
+
 
 ## [3-2](https://github.com/ishmamzarif/3-2)
 
----
+
 
 ## [4-1](https://github.com/ishmamzarif/4-1)
 
----
+
 
 ## [4-2](https://github.com/ishmamzarif/4-2)
