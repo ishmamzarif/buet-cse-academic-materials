@@ -1,7 +1,5 @@
 # buet-cse-academic-materials
 
-# BUET CSE Academic Materials
-
 ## [1-1](https://github.com/ishmamzarif/1-1)
 - [CSE101](https://github.com/ishmamzarif/1-1/tree/main/CSE101)
 - [CSE102](https://github.com/ishmamzarif/1-1/tree/main/CSE102)
